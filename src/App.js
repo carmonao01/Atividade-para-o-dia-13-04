@@ -65,3 +65,4 @@ if(localizacao == false){
 }
 
 export default App;
+// *
